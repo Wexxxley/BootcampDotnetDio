@@ -1,0 +1,15 @@
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.exe
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.deps.json
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.runtimeconfig.json
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.dll
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.pdb
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.AssemblyInfoInputs.cache
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.AssemblyInfo.cs
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.sourcelink.json
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.dll
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\refint\DesafioExplorando.dll
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.pdb
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.genruntimeconfig.cache
+C:\Users\Wesley Freitas\Documents\Projetos c#\BootcampDotnetDIO\DesafioExplorando\obj\Debug\net8.0\ref\DesafioExplorando.dll
